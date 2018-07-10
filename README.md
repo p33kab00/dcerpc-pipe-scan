@@ -25,22 +25,22 @@ Identify accessible pipes and bindings:
 
     [+] Found accessible endpoint
     Computer Browser
-    Provider:	Browser (\PIPE\browser)
-    UUID:	    6bffd098-a112-3610-9833-012892020162 v0.0
+    Provider:    Browser (\PIPE\browser)
+    UUID:        6bffd098-a112-3610-9833-012892020162 v0.0
 
     [+] Found accessible endpoint
     LSA DS access
-    Provider:	lsass.exe (\PIPE\lsarpc)
-    UUID:	    3919286a-b10c-11d0-9ba8-00c04fd92ef5 v0.0
+    Provider:    lsass.exe (\PIPE\lsarpc)
+    UUID:        3919286a-b10c-11d0-9ba8-00c04fd92ef5 v0.0
 
     [+] Found accessible endpoint
     SAM access
-    Provider:	lsass.exe (\PIPE\samr)
-    UUID:	    12345778-1234-abcd-ef00-0123456789ac v1.0
+    Provider:    lsass.exe (\PIPE\samr)
+    UUID:        12345778-1234-abcd-ef00-0123456789ac v1.0
 
     [+] Found accessible endpoint
     LSA access
-    Provider:	lsass.exe (\PIPE\lsarpc)
-    UUID:	    12345778-1234-abcd-ef00-0123456789ab v0.0
+    Provider:    lsass.exe (\PIPE\lsarpc)
+    UUID:        12345778-1234-abcd-ef00-0123456789ab v0.0
 
     [*] Found 4 possible bindings in 421 ms.
